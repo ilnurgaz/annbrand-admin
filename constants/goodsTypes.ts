@@ -2,7 +2,6 @@ export const CLOTH_TYPES = [
   { id: 1, name: 'dresses' },
   { id: 2, name: 't-shirts' },
   { id: 3, name: 'jaket' },
-  { id: 4, name: 'summer' },
   { id: 5, name: 'bags' },
   { id: 5, name: 'belts' },
   { id: 5, name: 'glasses' },
